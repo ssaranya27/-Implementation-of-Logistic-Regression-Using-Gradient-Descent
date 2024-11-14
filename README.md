@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+#EX6 Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
@@ -9,10 +9,15 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1.Initialize Parameters: Randomly initialize the weights and bias.
+
 2.Compute Prediction: Apply the sigmoid function on the linear combination of inputs and weights.
+
 3.Calculate Loss: Compute the binary cross-entropy loss between predicted and actual values.
+
 4.Compute Gradients: Calculate the gradients of weights and bias using partial derivatives of the loss function.
+
 5.Update Parameters: Adjust the weights and bias by subtracting the learning rate multiplied by the respective gradients.
+
 ## Program:
 
 Program to implement the the Logistic Regression Using Gradient Descent.
